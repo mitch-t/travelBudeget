@@ -3,8 +3,8 @@ const DATA_CACHE_NAME = "data-cache-v1";
 
 const staticFilesToPreCache = [
   "/",
-  "./icons/icon-192x192.png",
-  "./icons/icon-512x512.png",
+  "./icons/budgeti.png",
+  "./icons/budgetiL.png",
   "index.html",
   "index.js",
   "styles.css",
