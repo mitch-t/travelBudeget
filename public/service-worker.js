@@ -3,11 +3,11 @@ const DATA_CACHE_NAME = "data-cache-v1";
 
 const staticFilesToPreCache = [
   "/",
-  "./icons/budgeti.png",
-  "./icons/budgetiL.png",
+  "/icons/budgeti.png",
+  "/icons/budgetiL.png",
   "index.html",
   "index.js",
-  "styles.css",
+  "style.css",
   "/manifest.webmanifest",
   "db.js",
   "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
