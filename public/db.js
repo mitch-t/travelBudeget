@@ -1,5 +1,5 @@
 let db;
-// create a new db request for a "budget1" database.
+// create a new db request for a "budget1" database for heroku.
 const request = indexedDB.open("budget1", 1);
 
 request.onupgradeneeded = function (event) {
