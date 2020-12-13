@@ -4,7 +4,7 @@ const DATA_CACHE_NAME = "data-cache-v1";
 const staticFilesToPreCache = [
   "/",
   "/index.html",
-  "/index.js",
+  "index.js",
   "/style.css",
   "/db.js",
 ];
