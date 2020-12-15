@@ -9,6 +9,7 @@
 * [About](#about)
 * [Installation](#installation)
 * [Usage](#usage)
+* [Screenshots](#screenshots)
 * [Tests](#tests)
 * [Contributing](#contributing)
 * [License](#license)
@@ -22,6 +23,9 @@ To install PWA budget, follow these steps: The code can be pulled from this repo
 
 ## Using PWA budget
 The app can be accessed at https://obscure-sea-28002.herokuapp.com/. Enter the amount of money you have to spend or your "surplus" and input expenses you have to keep track of your budget.
+
+## Screenshots:
+![Screenshot (192)](https://user-images.githubusercontent.com/66184450/102160172-c3903d00-3e39-11eb-8267-35fb4dc14c8f.png)
 
 ## Contributing:
 
