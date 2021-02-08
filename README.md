@@ -19,7 +19,7 @@
 PWA budget - This app allows a traveler to keep track of their budget with or without internet coverage.
 
 ## Installing 
-To install PWA budget, follow these steps: The code can be pulled from this repo. Latest version of nodejs must be installed. Install npm in the terminal from the file directory. This app runs in conjuction with MongoDB and is connected with MongoDB atlas https://www.mongodb.com/cloud/atlas/signup.The app is deployed via Heroku, so a Heroku account must also be set up.
+To install PWA budget, follow these steps: The code can be pulled from this repo. Latest version of nodejs must be installed. Install npm in the terminal from the file directory. This app runs in conjuction with MongoDB and is connected with MongoDB atlas.The app is deployed via Heroku, so a Heroku account must also be set up.
 
 ## Using PWA budget
 The app can be accessed at https://obscure-sea-28002.herokuapp.com/. Enter the amount of money you have to spend or your "surplus" and input expenses you have to keep track of your budget.
